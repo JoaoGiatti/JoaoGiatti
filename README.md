@@ -1,9 +1,9 @@
 ## Opa!! Eu sou o João Giatti! 🚀
 
 ![JoaoGiatti's Stats](https://github-readme-stats.vercel.app/api?username=JoaoGiatti&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![JoaoGiatti's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoaoGiatti&theme=tokyonight&hide_border=false)
-<!--
 ![JoaoGiatti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGiatti&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+<!--
+![JoaoGiatti's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoaoGiatti&theme=tokyonight&hide_border=false)
 --!>
 
 
@@ -19,6 +19,7 @@
   <img align="center" alt="Giatti-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Giatti-Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" alt="Giatti-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="right" alt="Giatti-gif" height="60" width="60" src="me.gif" />
 
 </div>
   
